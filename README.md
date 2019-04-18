@@ -33,4 +33,5 @@
 
 ## In Memory Computing
 - 2018 MICRO: SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator. (UCSB, Samsung)
+- 2019 arXiv: In-memory Multiplication Engine with SOT-MRAM based Stochastic Computing. (UCSB, Behang)
 
