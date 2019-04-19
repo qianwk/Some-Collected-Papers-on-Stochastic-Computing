@@ -9,8 +9,13 @@
 - 2016 DAC: 
 
 ## Neural Networks
+### 2014
+- 2014 DATE: Fast and Accurate Computation Using Stochastic Circuits (University of Michigan, Ann Arbor)
+
 ### 2016
 - 2016 DAC: Dynamic Energy-Accuracy Trade-off Using Stochastic Computing in Deep Neural Networks. (Samsung, Seoul National University, Ulsan National Institute of Science and Technology)
+- 2016 ICCAD: A Deterministic Approach to Stochastic Computation (University of Minnesota)
+- 2016 DATE: Effect of LFSR Seeding, Scrambling and Feedback Polynomial on Stochastic Computing Accuracy (University of Toronto, Toronto; okyo Institute of Technology, Tokyo; Ritsumeikan University, Shiga)
 
 ### 2017
 - 2017 ASPLOS: SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing. (Syracuse University, USC, The City College of New York)
@@ -34,6 +39,8 @@
 - 2017 TCAS-II: Fully-Parallel Area-Efficient Deep Neural Network Design Using Stochastic Computing. (City University of New York, Syracuse, Nanjing University)
 - 2017 Integration, the VLSI Journal: Normalization and dropout for stochastic computing-based deep convolutional neural networks. (University of Southern California, Syracuse, City University of New York)
 - 2017 International Journal of Approximate Reasoning: Quick and energy-efficient Bayesian computing of binocular disparity using stochastic digital signals. (ISIR)
+- 2017 DATE: Energy Efficient Stochastic Computing with Sobol Sequences (University of Alberta, Edmonton)
+- 2017 DSD: Building a Better Random Number Generator for Stochastic Computing (University of Passau, Passau; University of Michigan, Ann Arbor)
 
 ### 2018
 - 2018 DAC: Sign-Magnitude SC: Getting 10X Accuracy for Free in Stochastic Computing for Deep Neural Networks. (UNIST)
@@ -58,6 +65,11 @@
 - 2018 Neurocomputing: Stochastic learning in deep neural networks based on nanoscale PCMO device characteristics. (New Jersey Institute of Technology, Indian Institute of Technology)
 - 2018 European Physical Journal Plus: A new stochastic computing paradigm for the dynamics of nonlinear singular heat conduction model of the human head. (Institute of Information Technology, HITEC University, Cankaya University)
 - 2018 IEICE: Application of stochastic computing in brainware. (McGill University, Tohoku University)
+- 2018 ICCAD: Deterministic Methods for Stochastic Computing Using Low-Discrepancy Sequences (University of Louisiana at Lafayette, Lafayette)
+- 2018 Microprocessors and Microsystems: S-box-based random number generation for stochastic computing (University of Passau, Passau; University of Michigan, Ann Arbor)
+- 2018 TVLSI: Toward Energy-Efficient Stochastic Circuits Using Parallel Sobol Sequences (University of Alberta, Edmonton)
+- 2018 TCAD: Architecture Considerations for Stochastic Computing Accelerators (University of Washington, Seattle)
+- 2018 DATE: Correlation Manipulating Circuits for Stochastic Computing (University of Washington, Seattl)
 
 ### 2019
 - 2019 DATE: Energy-Efficient Convolutional Neural Networks with Deterministic Bit-Stream Processing. (University of Minnesota, University of Louisiana)
@@ -68,6 +80,7 @@
 - 2019 JETC: Neural Network Classifiers Using a Hardware-Based Approximate Activation Function with a Hybrid Stochastic Multiplier. (Minnesota, Rutgers University)
 - 2019 VLSI System: Design of FSM-Based Function With Reduced Number of States in Integral Stochastic Computing. (National Kaohsiung University of Science and Technology)
 - 2019 arXiv: From Stochastic to Bit Stream Computing: Accurate Implementation of Arithmetic Circuits and Applications in Neural Networks. (Istanbul Technical University)
+- 2019 TVLSI: Design of FSM-Based Function With Reduced Number of States in Integral Stochastic Computing (National Kaohsiung University of Science and Technology, Kaohsiung)
 
 ### BOOK
 Stochastic Computing: Techniques and Applications
