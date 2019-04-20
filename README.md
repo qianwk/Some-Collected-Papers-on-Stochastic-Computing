@@ -19,7 +19,7 @@
 - 2018 DATE: Correlation Manipulating Circuits for Stochastic Computing (University of Washington, Seattl)
 
 ###2019
-- 2019 TVLSI: Design of FSM-Based Function With Reduced Number of States in Integral Stochastic Computing (National Kaohsiung University of Science and Technology, Kaohsiung)
+- 2019 TVLSI: Design of FSM-Based Function with Reduced Number of States in Integral Stochastic Computing (National Kaohsiung University of Science and Technology, Kaohsiung)
 
 ## Stochastic Number Generator (SNG)
 ###2014
@@ -35,7 +35,7 @@
 
 ###2018
 - 2018 ICCAD: Deterministic Methods for Stochastic Computing Using Low-Discrepancy Sequences (University of Louisiana at Lafayette, Lafayette)
-- 2018 Microprocessors and Microsystems: S-box-based random number generation for stochastic computing (University of Passau, Passau; University of Michigan, Ann Arbor)
+- 2018 Microprocessors and Microsystems: S-Box-Based Random Number Generation for Stochastic Computing (University of Passau, Passau; University of Michigan, Ann Arbor)
 - 2018 TVLSI: Toward Energy-Efficient Stochastic Circuits Using Parallel Sobol Sequences (University of Alberta, Edmonton)
 
 ## Accuracy Analysis
