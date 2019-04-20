@@ -31,11 +31,11 @@
 - 2018 Microprocessors and Microsystems: S-box-based random number generation for stochastic computing (University of Passau, Passau; University of Michigan, Ann Arbor)
 - 2018 TVLSI: Toward Energy-Efficient Stochastic Circuits Using Parallel Sobol Sequences (University of Alberta, Edmonton)
 
-##Accuracy Analysis
+## Accuracy Analysis
 ###2016
 - 2016 DATE: Effect of LFSR Seeding, Scrambling and Feedback Polynomial on Stochastic Computing Accuracy (University of Toronto, Toronto; okyo Institute of Technology, Tokyo; Ritsumeikan University, Shi
 
-##Architecture
+## Architecture
 ###2014
 - 2014 DATE: Fast and Accurate Computation Using Stochastic Circuits (University of Michigan, Ann Arbor)
 
