@@ -8,6 +8,9 @@
 - 2015 TCAD: 
 - 2016 DAC: 
 
+###2018
+- 2018 DATE: Correlation Manipulating Circuits for Stochastic Computing (University of Washington, Seattl)
+
 ###2019
 - 2019 TVLSI: Design of FSM-Based Function With Reduced Number of States in Integral Stochastic Computing (National Kaohsiung University of Science and Technology, Kaohsiung)
 
