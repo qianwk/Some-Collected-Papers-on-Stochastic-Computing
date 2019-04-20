@@ -8,7 +8,14 @@
 - 2015 TCAD: 
 - 2016 DAC: 
 
+###2014
+- 2014 DATE: Fast and Accurate Computation Using Stochastic Circuits (University of Michigan, Ann Arbor)
+
+###2017
+- 2017 DATE: Energy-Efficient Hybrid Stochastic-Binary Neural Networks for Near-Sensor Computing (University of Washington, Seattl;  University of Michigan, Ann Arbor)
+
 ###2018
+- 2018 TCAD: Architecture Considerations for Stochastic Computing Accelerators (University of Washington, Seattle)
 - 2018 DATE: Correlation Manipulating Circuits for Stochastic Computing (University of Washington, Seattl)
 
 ###2019
@@ -34,19 +41,6 @@
 ## Accuracy Analysis
 ###2016
 - 2016 DATE: Effect of LFSR Seeding, Scrambling and Feedback Polynomial on Stochastic Computing Accuracy (University of Toronto, Toronto; okyo Institute of Technology, Tokyo; Ritsumeikan University, Shi
-
-## Architecture
-###2014
-- 2014 DATE: Fast and Accurate Computation Using Stochastic Circuits (University of Michigan, Ann Arbor)
-
-###2017
-- 2017 DATE: Energy-Efficient Hybrid Stochastic-Binary Neural Networks for Near-Sensor Computing (University of Washington, Seattl;  University of Michigan, Ann Arbor)
-
-###2018
-- 2018 TCAD: Architecture Considerations for Stochastic Computing Accelerators (University of Washington, Seattle)
-- 2018 DATE: Correlation Manipulating Circuits for Stochastic Computing (University of Washington, Seattl)
-
-##
 
 ## Neural Networks
 ### 2016
