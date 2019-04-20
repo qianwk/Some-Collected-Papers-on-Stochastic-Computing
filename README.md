@@ -8,6 +8,43 @@
 - 2015 TCAD: 
 - 2016 DAC: 
 
+###2019
+- 2019 TVLSI: Design of FSM-Based Function With Reduced Number of States in Integral Stochastic Computing (National Kaohsiung University of Science and Technology, Kaohsiung)
+
+## Stochastic Number Generator (SNG)
+###2014
+- 2014 DATE: Fast and Accurate Computation Using Stochastic Circuits (University of Michigan, Ann Arbor)
+
+###2016
+- 2016 ICCAD: A Deterministic Approach to Stochastic Computation (University of Minnesota)
+- 2016 DATE: Effect of LFSR Seeding, Scrambling and Feedback Polynomial on Stochastic Computing Accuracy (University of Toronto, Toronto; okyo Institute of Technology, Tokyo; Ritsumeikan University, Shiga)
+
+###2017
+- 2017 DATE: Energy Efficient Stochastic Computing with Sobol Sequences (University of Alberta, Edmonton)
+- 2017 DSD: Building a Better Random Number Generator for Stochastic Computing (University of Passau, Passau; University of Michigan, Ann Arbor)
+
+###2018
+- 2018 ICCAD: Deterministic Methods for Stochastic Computing Using Low-Discrepancy Sequences (University of Louisiana at Lafayette, Lafayette)
+- 2018 Microprocessors and Microsystems: S-box-based random number generation for stochastic computing (University of Passau, Passau; University of Michigan, Ann Arbor)
+- 2018 TVLSI: Toward Energy-Efficient Stochastic Circuits Using Parallel Sobol Sequences (University of Alberta, Edmonton)
+
+##Accuracy Analysis
+###2016
+- 2016 DATE: Effect of LFSR Seeding, Scrambling and Feedback Polynomial on Stochastic Computing Accuracy (University of Toronto, Toronto; okyo Institute of Technology, Tokyo; Ritsumeikan University, Shi
+
+##Architecture
+###2014
+- 2014 DATE: Fast and Accurate Computation Using Stochastic Circuits (University of Michigan, Ann Arbor)
+
+###2017
+- 2017 DATE: Energy-Efficient Hybrid Stochastic-Binary Neural Networks for Near-Sensor Computing (University of Washington, Seattl;  University of Michigan, Ann Arbor)
+
+###2018
+- 2018 TCAD: Architecture Considerations for Stochastic Computing Accelerators (University of Washington, Seattle)
+- 2018 DATE: Correlation Manipulating Circuits for Stochastic Computing (University of Washington, Seattl)
+
+##
+
 ## Neural Networks
 ### 2016
 - 2016 DAC: Dynamic Energy-Accuracy Trade-off Using Stochastic Computing in Deep Neural Networks. (Samsung, Seoul National University, Ulsan National Institute of Science and Technology)
