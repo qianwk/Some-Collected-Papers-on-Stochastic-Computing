@@ -6,13 +6,18 @@
 
 ## Circuit Synthesis
 - 2008 DAC: 
-- 2011 TC: 
+- 2009 TC: 
 - 2012 ICCD: 
-### 2014
-- 2014 IEEE Transation on Computer: Logical Computation on Stochastic Bit Streams with Linear Finite State Machines (University of Minnesota)
 - 2015 DATE: 
 - 2015 TCAD: 
 - 2016 DAC: 
+### 2011
+- 2011 TCAD: Transforming Probabilities with Combinational Logic (University of Minnesota)
+- 2011 IEEE Transactions on Computers: An Architecture for Fault-Tolerant Computation with Stochastic Logic (University of Minnesota)
+
+### 2014
+- 2014 IEEE Transactions on Computers: Logical Computation on Stochastic Bit Streams with Linear Finite State Machines (University of Minnesota)
+
 
 ### 2017
 - 2017 JETC: A Reconfigurable Architecture with Sequential Logic-Based Stochastic Computing (University of Minnesota)
@@ -20,13 +25,15 @@
 ### 2018
 - 2018 TCAD: Architecture Considerations for Stochastic Computing Accelerators (University of Washington, Seattle)
 - 2018 DATE: Correlation Manipulating Circuits for Stochastic Computing (University of Washington, Seattle)
-- 2018 TCAD: Simultaneous Area and Latency Optimization for Stochastic Circuits by D Flip-flop Insertion (UM-SJTU JI)
-- 2018 TCAD: Stochastic Circuit Synthesis by Cube Assignment (UM-SJTU JI)
+- 2018 TCAD: Stochastic Circuit Synthesis by Cube Assignment (University of Michigan–Shanghai Jiao Tong University Joint Institute)
+- 2018 DSP: Optimizing stochastic computing-based FIR filters (University of Michigan–Shanghai Jiao Tong University Joint Institute)
+
 ### 2019
 - 2019 TVLSI: Design of FSM-Based Function with Reduced Number of States in Integral Stochastic Computing (National Kaohsiung University of Science and Technology)
+- 2019 TCAD: Simultaneous Area and Latency Optimization for Stochastic Circuits by D Flip-flop Insertion (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ### book
-- 2017 Advanced Logic Synthesis：A Branch-and-Bound-Based Minterm Assignment Algorithm for Synthesizing Stochastic Circuit (UM-SJTU JI)
+- 2018 Advanced Logic Synthesis：A Branch-and-Bound-Based Minterm Assignment Algorithm for Synthesizing Stochastic Circuit (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ## Stochastic Number Generator (SNG)
 ### 2014
@@ -39,11 +46,14 @@
 ### 2017
 - 2017 DATE: Energy Efficient Stochastic Computing with Sobol Sequences (University of Alberta)
 - 2017 DSD: Building a Better Random Number Generator for Stochastic Computing (University of Passau; University of Michigan, Ann Arbor)
+- 2017 ICCAD: Design of Accurate Stochastic Number Generators with Noisy Emerging Devices for Stochastic Computing (University of Michigan–Shanghai Jiao Tong University Joint Institute)
+- 2017 IWLS: Design of Reliable Stochastic Number Generators Using Emerging Devices for Stochastic Computing (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ### 2018
 - 2018 ICCAD: Deterministic Methods for Stochastic Computing Using Low-Discrepancy Sequences (University of Louisiana at Lafayette)
 - 2018 Microprocessors and Microsystems: S-Box-Based Random Number Generation for Stochastic Computing (University of Passau; University of Michigan, Ann Arbor)
 - 2018 TVLSI: Toward Energy-Efficient Stochastic Circuits Using Parallel Sobol Sequences (University of Alberta)
+- 2018 ISVLSI: Towards Theoretical Cost Limit of Stochastic Number Generators for Stochastic Computing (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ## Accuracy Analysis
 
