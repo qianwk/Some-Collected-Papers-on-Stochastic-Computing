@@ -40,7 +40,6 @@
 - 2018 TCAD: Architecture Considerations for Stochastic Computing Accelerators (University of Washington, Seattle)
 - 2018 DATE: Correlation Manipulating Circuits for Stochastic Computing (University of Washington, Seattle)
 - 2018 TCAD: Stochastic Circuit Synthesis by Cube Assignment (University of Michigan–Shanghai Jiao Tong University Joint Institute)
-- 2018 DSP: Optimizing Stochastic Computing-Based FIR Filters (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ### 2019
 - 2019 TVLSI: Design of FSM-Based Function with Reduced Number of States in Integral Stochastic Computing (National Kaohsiung University of Science and Technology)
@@ -51,6 +50,9 @@
 ## Application
 ### 2012
 - 2012 ICCAD: An Efficient Implementation of Numerical Integration Using Logical Computation on Stochastic Bit Streams (University of Michigan–Shanghai Jiao Tong University Joint Institute)
+
+### 2018
+- 2018 DSP: Optimizing Stochastic Computing-Based FIR Filters (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ## Stochastic Number Generator (SNG)
 ### 2013
