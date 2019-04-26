@@ -18,6 +18,12 @@
 ### 2014
 - 2014 IEEE Transactions on Computers: Logical Computation on Stochastic Bit Streams with Linear Finite State Machines (University of Minnesota)
 
+### 2015
+- 2015 DATE: A general design of stochastic circuit and its synthesis (University of Michigan–Shanghai Jiao Tong University Joint Institute)
+
+### 2016
+- 2016 IWLS：A Branch-and-Bound-Based Minterm Assignment Algorithm for Synthesizing Stochastic Circuit (University of Michigan–Shanghai Jiao Tong University Joint Institute)
+- 2016 ICASSP: Accelerating Stochastic Computation for Binary Classification Applications (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ### 2017
 - 2017 JETC: A Reconfigurable Architecture with Sequential Logic-Based Stochastic Computing (University of Minnesota)
@@ -33,7 +39,7 @@
 - 2019 TCAD: Simultaneous Area and Latency Optimization for Stochastic Circuits by D Flip-flop Insertion (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ### book
-- 2018 Advanced Logic Synthesis：A Branch-and-Bound-Based Minterm Assignment Algorithm for Synthesizing Stochastic Circuit (University of Michigan–Shanghai Jiao Tong University Joint Institute)
+
 
 ## Stochastic Number Generator (SNG)
 ### 2014
@@ -56,6 +62,8 @@
 - 2018 ISVLSI: Towards Theoretical Cost Limit of Stochastic Number Generators for Stochastic Computing (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ## Accuracy Analysis
+### 2015
+- 2015 GLSVLSI: Minimizing Error of Stochastic Computation through Linear Transformation (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ## Neural Networks
 ### 2016
