@@ -15,11 +15,19 @@
 - 2011 TCAD: Transforming Probabilities with Combinational Logic (University of Minnesota)
 - 2011 IEEE Transactions on Computers: An Architecture for Fault-Tolerant Computation with Stochastic Logic (University of Minnesota)
 
+### 2012
+- 2012 ICCAD: The Synthesis of Complex Arithmetic Computation on Stochastic Bit Streams Using Sequential Logic (University of Minnesota)
+- 2012 ASPDAC: The synthesis of linear finite state machine-based stochastic computational elements (University of Michigan–Shanghai Jiao Tong University Joint Institute)
+
+### 2013
+- 2013 ISCAS: An Ultra-Fast Parallel Architecture Using Sequential Circuits Computing on Random Bits (University of Michigan–Shanghai Jiao Tong University Joint Institute)
+
 ### 2014
 - 2014 IEEE Transactions on Computers: Logical Computation on Stochastic Bit Streams with Linear Finite State Machines (University of Minnesota)
+- 2014 ICCAD: Generating multiple correlated probabilities for MUX-based stochastic computing architecture (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ### 2015
-- 2015 DATE: A general design of stochastic circuit and its synthesis (University of Michigan–Shanghai Jiao Tong University Joint Institute)
+- 2015 DATE: A General Design of Stochastic Circuit and its Synthesis (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ### 2016
 - 2016 IWLS：A Branch-and-Bound-Based Minterm Assignment Algorithm for Synthesizing Stochastic Circuit (University of Michigan–Shanghai Jiao Tong University Joint Institute)
@@ -40,8 +48,13 @@
 
 ### book
 
+## Application
+### 2012
+- 2012 ICCAD: An Efficient Implementation of Numerical Integration Using Logical Computation on Stochastic Bit Streams (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ## Stochastic Number Generator (SNG)
+### 2013
+- 2013 ASPDAC: Optimizing Multi-level Combinational Circuits for Generating Random Bits (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 ### 2014
 - 2014 DATE: Fast and Accurate Computation Using Stochastic Circuits (University of Michigan, Ann Arbor)
 
