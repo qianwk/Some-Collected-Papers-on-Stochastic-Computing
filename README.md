@@ -17,14 +17,14 @@
 
 ### 2012
 - 2012 ICCAD: The Synthesis of Complex Arithmetic Computation on Stochastic Bit Streams Using Sequential Logic (University of Minnesota)
-- 2012 ASPDAC: The synthesis of linear finite state machine-based stochastic computational elements (University of Michigan–Shanghai Jiao Tong University Joint Institute)
+- 2012 ASPDAC: The Synthesis of Linear Finite State Machine-Based Stochastic Computational Elements (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ### 2013
 - 2013 ISCAS: An Ultra-Fast Parallel Architecture Using Sequential Circuits Computing on Random Bits (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ### 2014
 - 2014 IEEE Transactions on Computers: Logical Computation on Stochastic Bit Streams with Linear Finite State Machines (University of Minnesota)
-- 2014 ICCAD: Generating multiple correlated probabilities for MUX-based stochastic computing architecture (University of Michigan–Shanghai Jiao Tong University Joint Institute)
+- 2014 ICCAD: Generating Multiple Correlated Probabilities for MUX-Based Stochastic Computing Architecture (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ### 2015
 - 2015 DATE: A General Design of Stochastic Circuit and its Synthesis (University of Michigan–Shanghai Jiao Tong University Joint Institute)
@@ -40,7 +40,7 @@
 - 2018 TCAD: Architecture Considerations for Stochastic Computing Accelerators (University of Washington, Seattle)
 - 2018 DATE: Correlation Manipulating Circuits for Stochastic Computing (University of Washington, Seattle)
 - 2018 TCAD: Stochastic Circuit Synthesis by Cube Assignment (University of Michigan–Shanghai Jiao Tong University Joint Institute)
-- 2018 DSP: Optimizing stochastic computing-based FIR filters (University of Michigan–Shanghai Jiao Tong University Joint Institute)
+- 2018 DSP: Optimizing Stochastic Computing-Based FIR Filters (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ### 2019
 - 2019 TVLSI: Design of FSM-Based Function with Reduced Number of States in Integral Stochastic Computing (National Kaohsiung University of Science and Technology)
