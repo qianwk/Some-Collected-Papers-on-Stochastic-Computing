@@ -1,19 +1,32 @@
 # A Growing List of Papers on Stochastic Computing
 
+## Survey
+### 2018
+- 2018 TCAD: The Promise and Challenge of Stochastic Computing (University of Washington, Seattle)
+
 ## Circuit Synthesis
 - 2008 DAC: 
 - 2011 TC: 
 - 2012 ICCD: 
+### 2014
+- 2014 IEEE Transation on Computer: Logical Computation on Stochastic Bit Streams with Linear Finite State Machines (University of Minnesota)
 - 2015 DATE: 
 - 2015 TCAD: 
 - 2016 DAC: 
 
+### 2017
+- 2017 JETC: A Reconfigurable Architecture with Sequential Logic-Based Stochastic Computing (University of Minnesota)
+
 ### 2018
 - 2018 TCAD: Architecture Considerations for Stochastic Computing Accelerators (University of Washington, Seattle)
-- 2018 DATE: Correlation Manipulating Circuits for Stochastic Computing (University of Washington, Seattl)
-
+- 2018 DATE: Correlation Manipulating Circuits for Stochastic Computing (University of Washington, Seattle)
+- 2018 TCAD: Simultaneous Area and Latency Optimization for Stochastic Circuits by D Flip-flop Insertion (UM-SJTU JI)
+- 2018 TCAD: Stochastic Circuit Synthesis by Cube Assignment (UM-SJTU JI)
 ### 2019
 - 2019 TVLSI: Design of FSM-Based Function with Reduced Number of States in Integral Stochastic Computing (National Kaohsiung University of Science and Technology)
+
+### book
+- 2017 Advanced Logic Synthesis：A Branch-and-Bound-Based Minterm Assignment Algorithm for Synthesizing Stochastic Circuit (UM-SJTU JI)
 
 ## Stochastic Number Generator (SNG)
 ### 2014
