@@ -13,7 +13,7 @@
 - 2018 DATE: Correlation Manipulating Circuits for Stochastic Computing (University of Washington, Seattl)
 
 ### 2019
-- 2019 TVLSI: Design of FSM-Based Function with Reduced Number of States in Integral Stochastic Computing (National Kaohsiung University of Science and Technology, Kaohsiung)
+- 2019 TVLSI: Design of FSM-Based Function with Reduced Number of States in Integral Stochastic Computing (National Kaohsiung University of Science and Technology)
 
 ## Stochastic Number Generator (SNG)
 ### 2014
@@ -21,20 +21,18 @@
 
 ### 2016
 - 2016 ICCAD: A Deterministic Approach to Stochastic Computation (University of Minnesota)
-- 2016 DATE: Effect of LFSR Seeding, Scrambling and Feedback Polynomial on Stochastic Computing Accuracy (University of Toronto, Toronto; okyo Institute of Technology, Tokyo; Ritsumeikan University, Shiga)
+- 2016 DATE: Effect of LFSR Seeding, Scrambling and Feedback Polynomial on Stochastic Computing Accuracy (University of Toronto; Tokyo Institute of Technology; Ritsumeikan University)
 
 ### 2017
-- 2017 DATE: Energy Efficient Stochastic Computing with Sobol Sequences (University of Alberta, Edmonton)
-- 2017 DSD: Building a Better Random Number Generator for Stochastic Computing (University of Passau, Passau; University of Michigan, Ann Arbor)
+- 2017 DATE: Energy Efficient Stochastic Computing with Sobol Sequences (University of Alberta)
+- 2017 DSD: Building a Better Random Number Generator for Stochastic Computing (University of Passau; University of Michigan, Ann Arbor)
 
 ### 2018
-- 2018 ICCAD: Deterministic Methods for Stochastic Computing Using Low-Discrepancy Sequences (University of Louisiana at Lafayette, Lafayette)
-- 2018 Microprocessors and Microsystems: S-Box-Based Random Number Generation for Stochastic Computing (University of Passau, Passau; University of Michigan, Ann Arbor)
-- 2018 TVLSI: Toward Energy-Efficient Stochastic Circuits Using Parallel Sobol Sequences (University of Alberta, Edmonton)
+- 2018 ICCAD: Deterministic Methods for Stochastic Computing Using Low-Discrepancy Sequences (University of Louisiana at Lafayette)
+- 2018 Microprocessors and Microsystems: S-Box-Based Random Number Generation for Stochastic Computing (University of Passau; University of Michigan, Ann Arbor)
+- 2018 TVLSI: Toward Energy-Efficient Stochastic Circuits Using Parallel Sobol Sequences (University of Alberta)
 
 ## Accuracy Analysis
-### 2016
-- 2016 DATE: Effect of LFSR Seeding, Scrambling and Feedback Polynomial on Stochastic Computing Accuracy (University of Toronto, Toronto; okyo Institute of Technology, Tokyo; Ritsumeikan University, Shi
 
 ## Neural Networks
 ### 2016
