@@ -56,9 +56,6 @@
 ### 2012
 - 2012 ICCAD: An Efficient Implementation of Numerical Integration Using Logical Computation on Stochastic Bit Streams (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
-### 2018
-- 2018 Optimizing Stochastic Computing-Based FIR Filters (University of Michigan–Shanghai Jiao Tong University Joint Institute)
-
 ## Stochastic Number Generator (SNG)
 ### 2013
 - 2013 ASPDAC: Optimizing Multi-level Combinational Circuits for Generating Random Bits (University of Michigan–Shanghai Jiao Tong University Joint Institute)
