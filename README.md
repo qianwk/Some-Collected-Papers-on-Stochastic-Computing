@@ -5,12 +5,7 @@
 - 2018 TCAD: The Promise and Challenge of Stochastic Computing (University of Washington, Seattle)
 
 ## Circuit Synthesis
-- 2008 DAC: 
-- 2011 TC(professor): 
-- 2012 ICCD: 
-- 2015 DATE: 
-- 2015 TCAD: 
-- 2016 DAC: 
+- 2008 DAC (on teacher's website): 
 ### 2011
 - 2011 TCAD: Transforming Probabilities with Combinational Logic (University of Minnesota)
 - 2011 IEEE Transactions on Computers: An Architecture for Fault-Tolerant Computation with Stochastic Logic (University of Minnesota)
