@@ -1,14 +1,13 @@
 # A Growing List of Papers on Stochastic Computing
 
 ## Survey
-### 2013
-- 2013 TECS: Survey of Stochastic Computing (University of Michigan, Ann Arbor)
 ### 2018
 - 2018 TCAD: The Promise and Challenge of Stochastic Computing (University of Washington, Seattle)
 
 ## Circuit Synthesis
 - 2008 DAC: 
-- 2009 TC: 
+- 2011 TC(professor): 
+- 2012 ICCD: 
 - 2015 DATE: 
 - 2015 TCAD: 
 - 2016 DAC: 
@@ -19,7 +18,6 @@
 ### 2012
 - 2012 ICCAD: The Synthesis of Complex Arithmetic Computation on Stochastic Bit Streams Using Sequential Logic (University of Minnesota)
 - 2012 ASPDAC: The Synthesis of Linear Finite State Machine-Based Stochastic Computational Elements (University of Michigan–Shanghai Jiao Tong University Joint Institute)
-- 2012 ICCD: A Spectral Transform Approach to Stochastic Circuits（University of Michigan, Ann Arbor）
 
 ### 2013
 - 2013 ISCAS: An Ultra-Fast Parallel Architecture Using Sequential Circuits Computing on Random Bits (University of Michigan–Shanghai Jiao Tong University Joint Institute)
@@ -30,8 +28,6 @@
 
 ### 2015
 - 2015 DATE: A General Design of Stochastic Circuit and its Synthesis (University of Michigan–Shanghai Jiao Tong University Joint Institute)
-- 2015 TCAD: STRAUSS: Spectral Transform Use in Stochastic Circuit Synthesis (University of Michigan, Ann Arbor)
-- 2015 DAC: Equivalence Among Stochastic Logic Circuits and Its Application（University of Michigan, Ann Arbor）
 
 ### 2016
 - 2016 IWLS：A Branch-and-Bound-Based Minterm Assignment Algorithm for Synthesizing Stochastic Circuit (University of Michigan–Shanghai Jiao Tong University Joint Institute)
@@ -44,7 +40,6 @@
 - 2018 TCAD: Architecture Considerations for Stochastic Computing Accelerators (University of Washington, Seattle)
 - 2018 DATE: Correlation Manipulating Circuits for Stochastic Computing (University of Washington, Seattle)
 - 2018 TCAD: Stochastic Circuit Synthesis by Cube Assignment (University of Michigan–Shanghai Jiao Tong University Joint Institute)
-- 2018 JETC: Framework for Quantifying and Managing Accuracy in Stochastic Circuit Design (University of Passau)
 
 ### 2019
 - 2019 TVLSI: Design of FSM-Based Function with Reduced Number of States in Integral Stochastic Computing (National Kaohsiung University of Science and Technology)
@@ -55,6 +50,9 @@
 ## Application
 ### 2012
 - 2012 ICCAD: An Efficient Implementation of Numerical Integration Using Logical Computation on Stochastic Bit Streams (University of Michigan–Shanghai Jiao Tong University Joint Institute)
+
+### 2018
+- 2018 DSP: Optimizing Stochastic Computing-Based FIR Filters (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ## Stochastic Number Generator (SNG)
 ### 2013
