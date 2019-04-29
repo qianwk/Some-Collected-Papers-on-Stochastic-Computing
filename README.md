@@ -25,6 +25,7 @@
 ### 2015
 - 2015 DATE: A General Design of Stochastic Circuit and its Synthesis (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
+
 ### 2016
 - 2016 IWLS：A Branch-and-Bound-Based Minterm Assignment Algorithm for Synthesizing Stochastic Circuit (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 - 2016 ICASSP: Accelerating Stochastic Computation for Binary Classification Applications (University of Michigan–Shanghai Jiao Tong University Joint Institute)
