@@ -74,7 +74,7 @@
 - 2015 GLSVLSI: Minimizing Error of Stochastic Computation through Linear Transformation (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 
 ### 2018
-- 2018 JETC： Framework for Quantifying and Managing Accuracy in Stochastic Circuit Design (University of Michigan, Ann Arbor)
+- 2018 JETC: Framework for Quantifying and Managing Accuracy in Stochastic Circuit Design (University of Michigan, Ann Arbor)
 
 ## Neural Networks
 ### 2016
