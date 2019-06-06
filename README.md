@@ -134,6 +134,9 @@
 - 2018 IEICE: Application of stochastic computing in brainware. (McGill University, Tohoku University)
 
 ### 2019
+- 2019 DAC: SkippyNN: An Embedded Stochastic-computing Accelerator forConvolutional Neural Networks. (Univ. of Tehran, Minnesota)
+- 2019 DAC: LAcc: Exploiting Lookup Table-based Fast and Accurate Vector Multiplication in DRAM-based CNN Accelerator. (National Univ. of Defense Technology, Pittsburgh)
+- 2019 DAC: Successive Log Quantization for Cost-Efficient Neural Networks Using Stochastic Computing. (UNIST)
 - 2019 DATE: Energy-Efficient Convolutional Neural Networks with Deterministic Bit-Stream Processing. (University of Minnesota, University of Louisiana)
 - 2019 ASP-DAC: Log-quantized stochastic computing for memory and computation efficient DNNs. (UNIST)
 - 2019 TCAS-I: Efficient CMOS Invertible Logic Using Stochastic Computing. (McGill University, Tohoku University)
@@ -149,4 +152,4 @@ Stochastic Computing: Techniques and Applications
 ## In Memory Computing
 - 2018 MICRO: SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator. (UCSB, Samsung)
 - 2019 arXiv: In-memory Multiplication Engine with SOT-MRAM based Stochastic Computing. (UCSB, Behang)
-
+- 2019 DAC: LAcc: Exploiting Lookup Table-based Fast and Accurate Vector Multiplication in DRAM-based CNN Accelerator. (National Univ. of Defense Technology, Pittsburgh)
