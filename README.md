@@ -59,29 +59,29 @@
 - 2013 ASPDAC: Optimizing Multi-level Combinational Circuits for Generating Random Bits (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 ### 2014
 - 2014 DATE: Fast and Accurate Computation Using Stochastic Circuits (University of Michigan, Ann Arbor)
-
 ### 2016
 - 2016 ICCAD: A Deterministic Approach to Stochastic Computation (University of Minnesota)
 - 2016 DATE: Effect of LFSR Seeding, Scrambling and Feedback Polynomial on Stochastic Computing Accuracy (University of Toronto; Tokyo Institute of Technology; Ritsumeikan University)
-
 ### 2017
 - 2017 DATE: Energy Efficient Stochastic Computing with Sobol Sequences (University of Alberta)
 - 2017 DSD: Building a Better Random Number Generator for Stochastic Computing (University of Passau; University of Michigan, Ann Arbor)
 - 2017 ICCAD: Design of Accurate Stochastic Number Generators with Noisy Emerging Devices for Stochastic Computing (University of Michigan–Shanghai Jiao Tong University Joint Institute)
 - 2017 IWLS: Design of Reliable Stochastic Number Generators Using Emerging Devices for Stochastic Computing (University of Michigan–Shanghai Jiao Tong University Joint Institute)
-
 ### 2018
 - 2018 ICCAD: Deterministic Methods for Stochastic Computing Using Low-Discrepancy Sequences (University of Louisiana at Lafayette)
 - 2018 Microprocessors and Microsystems: S-Box-Based Random Number Generation for Stochastic Computing (University of Passau; University of Michigan, Ann Arbor)
 - 2018 TVLSI: Toward Energy-Efficient Stochastic Circuits Using Parallel Sobol Sequences (University of Alberta)
 - 2018 ISVLSI: Towards Theoretical Cost Limit of Stochastic Number Generators for Stochastic Computing (University of Michigan–Shanghai Jiao Tong University Joint Institute)
+### 2019
+- [2019 arxiv](https://arxiv.org/pdf/1902.05971.pdf): Synthesizing Number Generators for Stochastic Computing using Mixed Integer Programming. (Washington)
+- [2019 TED](https://ieeexplore.ieee.org/abstract/document/8741170):Spin-Hall-Effect-Based Stochastic Number Generator for Parallel Stochastic Computing. (Minnesota)
+- [2019 SNW](https://ieeexplore.ieee.org/abstract/document/8782977):A Parallel Bitstream Generator for Stochastic Computing. (Peking)
 
 ## Accuracy Analysis
-### 2015
 - 2015 GLSVLSI: Minimizing Error of Stochastic Computation through Linear Transformation (University of Michigan–Shanghai Jiao Tong University Joint Institute)
-
-### 2018
 - 2018 JETC: Framework for Quantifying and Managing Accuracy in Stochastic Circuit Design (University of Michigan, Ann Arbor)
+
+
 
 ## Neural Networks
 ### 2016
@@ -133,6 +133,7 @@
 - 2018 Neurocomputing: Stochastic learning in deep neural networks based on nanoscale PCMO device characteristics. (New Jersey Institute of Technology, Indian Institute of Technology)
 - 2018 European Physical Journal Plus: A new stochastic computing paradigm for the dynamics of nonlinear singular heat conduction model of the human head. (Institute of Information Technology, HITEC University, Cankaya University)
 - 2018 IEICE: Application of stochastic computing in brainware. (McGill University, Tohoku University)
+- [2018 ASP-DAC](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8297385): Spintronics based stochastic computing for efficient Bayesian inference system. (Beihang, Duke)
 
 ### 2019
 - 2019 DAC: SkippyNN: An Embedded Stochastic-computing Accelerator forConvolutional Neural Networks. (Univ. of Tehran, Minnesota)
@@ -140,15 +141,26 @@
 - 2019 DAC: Successive Log Quantization for Cost-Efficient Neural Networks Using Stochastic Computing. (UNIST)
 - 2019 DATE: Energy-Efficient Convolutional Neural Networks with Deterministic Bit-Stream Processing. (University of Minnesota, University of Louisiana)
 - 2019 ASP-DAC: Log-quantized stochastic computing for memory and computation efficient DNNs. (UNIST)
-- 2019 TCAS-I: Efficient CMOS Invertible Logic Using Stochastic Computing. (McGill University, Tohoku University)
-- 2019 TCAD: SPINBIS: Spintronics based Bayesian Inference System with Stochastic Computing. (Beihang, University of South California, Duke)
+- [2019 TCAS-I](https://ieeexplore.ieee.org/abstract/document/8610326): Efficient CMOS Invertible Logic Using Stochastic Computing. (McGill University, Tohoku University)
+- [2019 TCAD](https://ieeexplore.ieee.org/document/8634932): SPINBIS: Spintronics based Bayesian Inference System with Stochastic Computing. (Beihang, University of South California, Duke)
 - 2019 JETC: Low-Cost Stochastic Hybrid Multiplier for Quantized Neural Networks. (Minnesota, University of Louisiana at Lafayette)
 - 2019 JETC: Neural Network Classifiers Using a Hardware-Based Approximate Activation Function with a Hybrid Stochastic Multiplier. (Minnesota, Rutgers University)
-- 2019 VLSI System: Design of FSM-Based Function With Reduced Number of States in Integral Stochastic Computing. (National Kaohsiung University of Science and Technology)
+- [2019 VLSI System](https://ieeexplore.ieee.org/abstract/document/8630962): Design of FSM-Based Function With Reduced Number of States in Integral Stochastic Computing. (National Kaohsiung University of Science and Technology)
 - 2019 arXiv: From Stochastic to Bit Stream Computing: Accurate Implementation of Arithmetic Circuits and Applications in Neural Networks. (Istanbul Technical University)
+- [2019 AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4475): Universal Approximation Property and Equivalence of Stochastic Computing-Based Neural Networks and Binary Neural Networks. (Northeastern, Syracuse)
+- [2019 CF](http://delivery.acm.org/10.1145/3330000/3323050/p59-neugebauer.pdf?ip=162.105.201.72&id=3323050&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EAC95BC9DA5A3FA7E%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1570455004_1f7bcab9685100d9446c9819fd6ae717): On the maximum function in stochastic computing. (Stuttgart, Michigan)
+- [2019 Access](https://ieeexplore.ieee.org/abstract/document/8731879): Stochastic Computing for Hardware Implementation of Binarized Neural Networks. ()
+- [2019 TCAS-II](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8671762): New Divider Design for Stochastic Computing. 
+- [2019 TVLSI](https://ieeexplore.ieee.org/abstract/document/8746640): An Energy-Efficient and Noise-Tolerant Recurrent Neural Network Using Stochastic Computing. (Alberta, Tsinghua, Northeastern)  SC+RNN
+- [2019 ISCAS](https://ieeexplore.ieee.org/abstract/document/8702248): Stochastic Computing for Low-Power and High-Speed Deep Learning on FPGA. (James Cook University)  SC online training accelerator
+
 
 ### BOOK
-Stochastic Computing: Techniques and Applications
+[Stochastic Computing: Techniques and Applications](https://link.springer.com/content/pdf/10.1007%2F978-3-030-03730-7.pdf)
+
+## New Device
+- [2018 ASP-DAC](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8297385): Spintronics based stochastic computing for efficient Bayesian inference system. (Beihang, Duke)
+- [2019 TCAD](https://ieeexplore.ieee.org/document/8634932): SPINBIS: Spintronics based Bayesian Inference System with Stochastic Computing. (Beihang, Duke)
 
 ## In Memory Computing
 - 2018 MICRO: SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator. (UCSB, Samsung)
