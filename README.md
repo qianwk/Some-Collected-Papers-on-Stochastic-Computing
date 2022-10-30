@@ -1,4 +1,4 @@
-# A Growing List of Papers on Stochastic Computing
+# Some Collected Papers on Stochastic Computing
 
 ## Survey
 ### 2013
